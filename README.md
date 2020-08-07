@@ -1,8 +1,9 @@
 # hooks
 React-Hooks installable with NPM
 
-- [ ] useTitle
-- [ ] useInput
+- [x] useInput
+- [x] useTabs
+- [x] useTitle
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
@@ -11,7 +12,6 @@ React-Hooks installable with NPM
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios
