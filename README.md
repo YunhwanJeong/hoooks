@@ -7,10 +7,10 @@ React-Hooks installable with NPM
 - [x] useClick
 - [x] useConfirm
 - [x] usePreventLeave
-- [ ] useBeforeLeave
-- [ ] useFadeIn
-- [ ] useFullscreen
+- [x] useBeforeLeave
+- [x] useFadeIn
 - [ ] useNetwork
+- [ ] useFullscreen
 - [ ] useNotification
 - [ ] useScroll
 - [ ] useAxios
