@@ -1,5 +1,5 @@
 export const useBeforeLeave = beg => {
-    if (!beg || typeof beg !== "function") {
+    if (beg && typeof beg !== "function") {
       return;
     }
     const handleMouseLeave = (event) => {
