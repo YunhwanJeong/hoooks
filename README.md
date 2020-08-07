@@ -4,14 +4,13 @@ React-Hooks installable with NPM
 - [x] useInput
 - [x] useTabs
 - [x] useTitle
-- [ ] usePageLeave
-- [ ] useClick
+- [x] useClick
+- [x] useConfirm
+- [x] usePreventLeave
+- [ ] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
-- [ ] useHover
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] usePreventLeave
-- [ ] useConfirm
 - [ ] useAxios
