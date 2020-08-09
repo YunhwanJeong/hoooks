@@ -11,6 +11,6 @@ React-Hooks installable with NPM
 - [x] useFadeIn
 - [x] useNetwork
 - [x] useScroll
-- [ ] useFullscreen
-- [ ] useNotification
+- [x] useFullscreen
+- [x] useNotification
 - [ ] useAxios
