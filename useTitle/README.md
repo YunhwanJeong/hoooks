@@ -14,7 +14,7 @@ React Hook to update your document's title
 import React from "react";
 import useTitle from "@hoooks/use-title";
 
-function App() {
+export default function App() {
   useTitle("Hi!");
   return <h1>Check out your browser's title</h1>;
 }
