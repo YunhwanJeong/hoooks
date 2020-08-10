@@ -1,6 +1,6 @@
 {
   "name": "@hoooks/use-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "```js\r import React from 'react';\r import useInput from \"@nooks/use-input\"",
   "main": "index.js",
   "repository": {
