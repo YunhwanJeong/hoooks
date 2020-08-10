@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/YunhwanJung/hoooks/issues"
   },
-  "homepage": "https://github.com/YunhwanJung/hoooks#readme"
+  "homepage": "https://github.com/YunhwanJung/hoooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
