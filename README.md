@@ -13,4 +13,4 @@ React-Hooks installable with NPM
 - [x] useScroll
 - [x] useFullscreen
 - [x] useNotification
-- [ ] useAxios
+- [x] useAxios
