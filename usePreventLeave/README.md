@@ -14,7 +14,7 @@ Ask user one more time before leaving a page for safe-termination. Useful when c
 import React from "react";
 import useTitle from "@hoooks/use-prevent-leave";
 
-function App() {
+export default function App() {
   const { enablePrevent, disablePrevent } = usePreventLeave();
   return (
       <>

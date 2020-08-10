@@ -1,6 +1,6 @@
 {
   "name": "@hoooks/use-prevent-leave",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ask user one more time before leaving a page for safe-termination. Useful when changes are not saved.",
   "main": "index.js",
   "repository": {
