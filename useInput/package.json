@@ -1,0 +1,25 @@
+{
+  "name": "@hoooks/use-input",
+  "version": "1.0.0",
+  "description": "```js\r import React from 'react';\r import useInput from \"@nooks/use-input\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunhwanJung/hoooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "hoooks"
+  ],
+  "author": "aiden jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YunhwanJung/hoooks/issues"
+  },
+  "homepage": "https://github.com/YunhwanJung/hoooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

@@ -1,3 +1,5 @@
+import { useState } from 'react';
+
 export const useInput = (initialValue, validator) => {
   const [value, setValue] = useState(initialValue);
   const onChange = event => {
@@ -12,5 +14,5 @@ export const useInput = (initialValue, validator) => {
       setValue(value);
     }
   };
-  return { value, onChange };
+  return { props: { value, onChange }, utils: { setValue } };
 };
