@@ -1,6 +1,6 @@
 {
   "name": "@hoooks/use-network",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether the network status is online or offline.",
   "main": "index.js",
   "repository": {

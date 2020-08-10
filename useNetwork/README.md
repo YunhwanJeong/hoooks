@@ -14,7 +14,7 @@ Check whether the network status is online or offline.
 import React from "react";
 import useTitle from "@hoooks/use-network";
 
-function App() {
+export default function App() {
   const isOnline = useNetwork();
   return (
       <>
