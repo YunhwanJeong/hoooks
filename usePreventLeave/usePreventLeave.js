@@ -3,14 +3,14 @@ export const usePreventLeave = () => {
       event.preventDefault();
       event.returnValue = false;
     }
-    const protect = () => {
+    const enablePrevent = () => {
       window.addEventListener('beforeunload', handlePreventLeave);
     }
-    const unprotect = () => {
+    const disablePrevent = () => {
       window.removeEventListener('beforeunload', handlePreventLeave)
     };
     return {
-      protect,
-      unprotect
+      enablePrevent,
+      disablePrevent
     };
   };

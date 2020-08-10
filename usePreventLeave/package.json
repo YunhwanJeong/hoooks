@@ -1,0 +1,21 @@
+{
+  "name": "@hoooks/use-prevent-leave",
+  "version": "1.0.1",
+  "description": "Ask user one more time before leaving a page for safe-termination. Useful when changes are not saved.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunhwanJung/hoooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "hoooks"
+  ],
+  "author": "aiden jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YunhwanJung/hoooks/issues"
+  },
+  "homepage": "https://github.com/YunhwanJung/hoooks#readme"
+}
