@@ -1,16 +1,18 @@
-# hooks
-React-Hooks installable with NPM
+# hoooks
+Collection of React Hooks
 
-- [x] useInput
-- [x] useTabs
-- [x] useTitle
-- [x] useClick
-- [x] useConfirm
-- [x] usePreventLeave
-- [x] useBeforeLeave
-- [x] useFadeIn
-- [x] useNetwork
-- [x] useScroll
-- [x] useFullscreen
-- [x] useNotification
-- [x] useAxios
+|Name           |Description|Document|Npm|
+|---------------|-----------|--------|---|
+|useAxios       ||||
+|useBeforeLeave ||||
+|useClick       ||||
+|useConfirm     ||||
+|useFadeIn      ||||
+|useFullScreen  ||||
+|useInput       ||||
+|useNetwork     ||||
+|useNotification||||
+|usePreventLeave||||
+|useScroll      ||||
+|useTabs        ||||
+|useTitle       ||||
